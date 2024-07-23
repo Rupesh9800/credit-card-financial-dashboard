@@ -43,4 +43,4 @@ The goal of this project is to develop a comprehensive Power BI dashboard that p
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/credit-card-dashboard.git
+   git clone https://github.com/Rupesh9800/credit-card-dashboard.git
