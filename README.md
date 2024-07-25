@@ -39,8 +39,4 @@ The goal of this project is to develop a comprehensive Power BI dashboard that p
 - **Geographical Breakdown**: Analyze performance across different regions.
 - **Customer Demographics**: Gain insights into revenue distribution by gender and credit card type.
 
-## Getting Started
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/Rupesh9800/credit-card-dashboard.git
